@@ -1,0 +1,14 @@
+.grid-background {
+    
+    -fx-background-color: white,
+        linear-gradient(from 0px 0px to 10px 0px, repeat, grey 0.01%, transparent 35%),
+        linear-gradient(from 0px 0px to 0px 10px, repeat, grey 0.01%, transparent 35%);
+}
+
+
+.notebook-grid {
+    -fx-background-color: white, 
+        linear-gradient(from 0px 0px to 0px 20px, repeat, blue 1px, transparent 1px),
+        linear-gradient(from 0px 0px to 20px 0px, repeat, blue 1px, transparent 1px);
+}
+

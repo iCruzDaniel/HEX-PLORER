@@ -1,0 +1,7 @@
+.button_bar {
+    -fx-background-color: #5e5e5e; /* Color cuando el botón es presionado usando pseudoclase */
+}
+
+.button_bar:pressed {
+    -fx-background-color: #BA009C; /* Color cuando el botón es presionado usando pseudoclase */
+}
