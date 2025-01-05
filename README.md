@@ -4,6 +4,7 @@
 
 **Este proyecto consiste en el desarrollo de un prototipo de hexápodo capaz de mapear y detectar condiciones irregulares en un área determinada. El robot posee un control para controlarlo a distancia y varias modalidades.**
 
+![Texto alternativo](DOCs/img/hex.jpg)
 ---
 
 ## **Índice**
