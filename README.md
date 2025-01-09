@@ -4,7 +4,7 @@
 
 **Este proyecto consiste en el desarrollo de un prototipo de hexápodo capaz de mapear y detectar condiciones irregulares en un área determinada. El robot posee un control para controlarlo a distancia y varias modalidades.**
 
-![Texto alternativo](DOCs/img/hex.jpg)
+![HEX-PLORER fase final.](DOCs/img/hex.jpg)
 ---
 
 ## **Índice**
@@ -119,6 +119,14 @@ Consulta las [guías de contribución](CONTRIBUTING.md) para más detalles. -->
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles. -->
 
 ---
+## **Anexos**
+  
+- A continuación, algunas vistas de la Interfaz:
+  - Vista Mapeo Automático: ![Mockup Vista Mapeo.](DOCs/img/FRAME1.png)
+  - Vista Modo Manual: ![Mockup Vista Modo Manual.](DOCs/img/MODO_MANUAL.png)  
+
+---
+
 
 ## **Contacto**
 
