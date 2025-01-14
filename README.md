@@ -1,6 +1,8 @@
 # HEX-PLORER
 
 ![Versión](https://img.shields.io/badge/version-1.0.0-green)
+![Java](https://img.shields.io/badge/Java-17-orange?logo=java&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-IDE_2.1-blue?logo=arduino&logoColor=white)
 ![Build In Progress](https://img.shields.io/badge/build-in%20progress-blue)
 
 **Este proyecto consiste en el desarrollo de un prototipo de hexápodo capaz de mapear y detectar condiciones irregulares en un área determinada. El robot posee un control para controlarlo a distancia y varias modalidades.**
